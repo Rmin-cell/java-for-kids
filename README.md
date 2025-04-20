@@ -21,3 +21,15 @@ Welcome to the Java TA Class Repository!
 
 5. **Have Fun!**
    - We will play a game on this term **Factorio**.
+   - Algorithmic competations on Quera
+
+6. **Exercises**
+   - basic programming 
+   - object oriented one
+   - object oriented two
+
+7. **Project**
+   - Mini Discord
+   - Mini Twitter
+   - DOOZ
+   ....
