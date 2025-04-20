@@ -20,7 +20,7 @@ Welcome to the Java TA Class Repository!
    - If you have any questions or need assistance, feel free to reach out to me via email: [armin.momeni.atu@gmail.com]
 
 5. **Have Fun!**
-   - We will play a game on this term **Factorio**.
+   - We will play a game on this term **Factorio**. https://mega.nz/folder/HC5FkLzK#W8XkNGQZ2BbaxM0QEj9g_w
    - Algorithmic competations on Quera
 
 6. **Exercises**
