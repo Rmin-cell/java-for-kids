@@ -24,12 +24,16 @@ Welcome to the Java TA Class Repository!
    - Algorithmic competations on Quera
 
 6. **Exercises**
+- 3 out of 10 point
    - basic programming 
+   - basic programming two
    - object oriented one
-   - object oriented two
 
-7. **Project**
+7. **Projects**
+- 7 out of 10 point
+- Middle Project(2.5 or 3 point):
+   - DOOZ
+   - Or Any fun minimal game 
+-  Final Project(4 or 4.5 point):
    - Mini Discord
    - Mini Twitter
-   - DOOZ
-   ....
